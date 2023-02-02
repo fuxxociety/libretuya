@@ -73,7 +73,7 @@
     "framework-beken-bdk": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/bekencorp/bdk_freertos#c3533e8",
+      "version": "https://github.com/lincaiwei/bdk_freertos#c3533e8",
       "manifest": {
         "description": "Beken Development Kit for FreeRTOS"
       },
