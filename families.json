@@ -52,7 +52,7 @@
 		"code": "bk7231u",
 		"parent_code": "bk72xx",
 		"url": "http://www.bekencorp.com/en/goods/detail/cid/13.html",
-		"sdk": "https://github.com/bekencorp/bdk_freertos",
+		"sdk": "https://github.com/lincaiwei/bdk_freertos",
 		"framework": "framework-beken-bdk",
 		"mcus": [
 			"BK7231T",
@@ -70,7 +70,7 @@
 		"code": "bk7231n",
 		"parent_code": "bk72xx",
 		"url": "http://www.bekencorp.com/en/goods/detail/cid/39.html",
-		"sdk": "https://github.com/bekencorp/bdk_freertos",
+		"sdk": "https://github.com/lincaiwei/bdk_freertos",
 		"framework": "framework-beken-bdk",
 		"mcus": [
 			"BK7231N",
@@ -87,7 +87,7 @@
 		"code": "bk7251",
 		"parent_code": "bk72xx",
 		"url": "http://www.bekencorp.com/en/goods/detail/cid/21.html",
-		"sdk": "https://github.com/bekencorp/bdk_freertos",
+		"sdk": "https://github.com/lincaiwei/bdk_freertos",
 		"framework": "framework-beken-bdk",
 		"mcus": [
 			"BK7251",
